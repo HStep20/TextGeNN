@@ -1,1 +1,1 @@
-{"rnn_layers": 8, "rnn_size": 128, "rnn_bidirectional": false, "max_length": 50, "max_words": 10000, "dim_embeddings": 250, "word_level": false, "single_text": false, "name": "./models/jrrtnames/jrrtnames_model", "max_gen_length": 25}
+{"rnn_layers": 4, "rnn_size": 128, "rnn_bidirectional": false, "max_length": 50, "max_words": 10000, "dim_embeddings": 250, "word_level": false, "single_text": false, "name": "./models/jrrtnames/jrrtnames_model", "max_gen_length": 25}

@@ -1,0 +1,116 @@
+Time to execute: 486.042 seconds
+Time to execute: 8.12 minutes
+
+========== Model Info ==========
+rnnLayers: 8
+rnnSize: 256
+batchSize: 256
+trainSize: 0.7
+bidirectional: True
+numEpochs: 100
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.75
+Output Total: 99
+===================================================
+
+Adolian
+Adroona
+Ah
+Alawah
+Alawahd
+Aldight
+Aldonar
+Allightist
+Almigh
+Ashil
+Ashleth
+Au
+Auali
+Bid
+Caeli
+Calinor
+Cordbeath
+Corvasa
+Cunaka'a
+Dalkar
+Elhista
+Eshona
+Farlena
+Gadarah
+Gashah
+Gawxinh
+Gevenam
+Ghen
+Gitgevet
+Harka
+Hashah
+Heladon
+Ichona
+Inkama
+Ishnak
+Ivisi
+Iyali
+Jeni
+Jochint
+Kadashal
+Khresh-sana
+Lanacan
+Larash
+List
+Litim
+Loradar
+Lunu'avatiak
+Makam
+Malanor
+Marr
+Mathin
+Mayalarn
+Mayanar
+Melidn
+Merda
+Moedacon
+Munakia
+Naft
+Navanar
+Nela
+Niat
+Nightwatc
+Nistiouat
+Numati
+Patana
+Pedina
+Prefession
+Sakaka-daught
+Sanaka
+Shalasa
+Shorena
+Sidnor
+Simoo
+Skarm
+Starmas
+Stormfat
+Syling
+Tasai
+Tavanar
+Teas
+Temara
+Thaid
+Thaka
+Thasin
+Thresh-sha
+Thresh-shan
+Tigzik
+Tob
+Ushna
+Varal
+Varalis
+Vedenar
+Venala
+Von
+Wmark
+Wynor
+Yaezi
+Yezrian
+Zuln

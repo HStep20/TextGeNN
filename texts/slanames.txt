@@ -2,9 +2,9 @@ Abrial
 Abrobadar
 Abronai
 Adis
-Adolin Kholin
+Adolin
 Adrotagia
-Aesudan Kholin
+Aesudan
 Aharat
 Ahu
 Alabet
@@ -19,12 +19,11 @@ Almighty
 Altoki
 Amark
 Apara
-Apothecary
 Arclo
 Aric
 Arik
 Artmyrn
-Artmyrn's wife
+Artmyrn
 Ashelem
 Ashertmarn
 Ashir
@@ -35,19 +34,17 @@ Av
 Avado
 Avaran
 Avena
-Axies the Collector
+Axies
 Azure
 Ba-Ado-Mishram
 Bajerden
-Balat Davar
-Barlesha Lhan
+Balat
+Barlesha
 Barmest
 Bashin
 Battar
 Baxil
 Beard
-Beautiful Song
-Beggars
 Beld
 Betha
 Bethab
@@ -55,27 +52,27 @@ Bettam
 Bidlel
 Bila
 Bisig
-Black Fisher
+Fisher
 Blightwind
 Blunt
 Bluth
 Bordin
 Boriar
 Brianlia
-Brightlord Gevelmar
-Brightlord Havar
-Brightlord Lustow
-Brightlord Morakotha
-Brightlord Resi
-Brightlord Roshone
-Brightlord Seveks
-Brightlord Sheler
-Brightlord Tashlin
-Brightlord Tavinar
-Brightness Davar
-Brightness Hasheh
-Brightness Istow
-Brightness Tavinar
+Gevelmar
+Havar
+Lustow
+Morakotha
+Resi
+Roshone
+Seveks
+Sheler
+Tashlin
+Tavinar
+Davar
+Hasheh
+Istow
+Tavinar
 Caeb
 Cael
 Cali
@@ -96,11 +93,11 @@ Cyn
 Dabbid
 Dai-gonarthis
 Dalar
-Dalinar Kholin
+Dalinar
 Dalksi
 Dallet
-Dandos the Oilsworn
-Danlan Morakotha
+Dandos
+Danlan
 Davim
 Deedanor
 Deeli
@@ -113,8 +110,8 @@ Dukar
 Dunny
 Durk
 Dym
-Elhokar Kholin
-Elit Ruthar
+Elhokar
+Elit
 Ellista
 Elthal
 Elthebar
@@ -122,21 +119,20 @@ En
 Erraniv
 Eshava
 Eshonai
-Eshonai's Mother
+Eshonai
 Eth
 Ethid
-Evi Kholin
+Evi
 Evinor
-Evod Markmaker
+Evod
 Extes
-Eylita Tavinar
-F'en Rnamdi
+Eylita
+F'en
 Fabrisan
 Falilar
 Falksi
 Fari
 Febrth
-Female Shardbearer
 Fia
 Fiksin
 Fin
@@ -151,8 +147,8 @@ Gare
 Gashash
 Gavarah
 Gavashaw
-Gavilar Kholin
-Gavinor Kholin
+Gavilar
+Gavinor
 Gawx
 Gaz
 Geranid
@@ -185,11 +181,9 @@ Hav
 Havar
 Havarah
 Havrom
-Heart of the Revel
 Heb
-Helaran Davar
+Helaran
 Hema-dak
-Herdazian General
 Hesina
 Hessi
 Hmalka
@@ -200,7 +194,7 @@ Horneater
 Huio
 Huisi
 Huqin
-Ialai Sadeas
+Ialai
 Ico
 Idolir
 Idrin
@@ -208,7 +202,7 @@ Ilamar
 Inadara
 Inkima
 Invia
-Isasik Shulin
+Isasik
 Ishar
 Ishikk
 Ishnah
@@ -218,12 +212,11 @@ Ixil
 Iyatil
 Jakamav
 Jaks
-Jal Mala
+Jal
 Jam
-Jam's Father
-Janala Lustow
-Jasnah Kholin
-Jayla Ruthar
+Janala
+Jasnah
+Jayla
 Jenet
 Jenin
 Jerono
@@ -234,7 +227,7 @@ Jochi
 Joret
 Joshor
 Jost
-Jushu Davar
+Jushu
 Ka
 Kabsal
 Kadash
@@ -249,12 +242,11 @@ Karavaniga
 Karm
 Katarotam
 Kaves
-Kaves Kholin
+Kaves
 Kaza
 Kazilah
 Kef'ha
 Khal
-Khal's Son
 Khav
 Khen
 Kheni
@@ -272,8 +264,8 @@ Kylrm
 Ladent
 Lalai
 Lamaril
-Lanacin the Surefooted
-Laral Wistiow
+Lanacin
+Laral
 Laresh
 Leef
 Leshwi
@@ -281,7 +273,6 @@ Leyten
 Lhan
 Lhanin
 Lift
-Lift's Mother
 Lin Davar
 Lirin
 Liss
@@ -289,7 +280,6 @@ Litima
 Lomard
 Longshadow
 Lopen
-Lopen's Mother
 Loradar Vamah
 Luesh
 Lunamor
@@ -303,34 +293,31 @@ Makal
 Makh
 Makkek
 Malan
-Malasha Seveks
+Malasha
 Malata
 Malchin
-Malise Gevelmar
+Malise
 Malop
 Manaline
 Mara
 Marks
 Marri
 Mart
-Master-Servant
 Matain
 Matal
 Maxin
-May Aladar
+May
 Mayalaran
 Melishi
 Melu
 Mem
-Meridas Amaram
+Meridas
 Mesh
 Miasal
-Midnight Mother
+Midnight
 Mik
-Mik's Mother
 Milp
 Moash
-Moash's Grandparents
 Moelach
 Molinar
 Moratel
@@ -340,33 +327,31 @@ Mrall
 Mrun
 Mungam
 Murk
-Mysterious Man
-Nacomb Gaval
+Nacomb
 Nadris
 Nafti
 Naget
 Nakal
 Nakku
 Nale
-Nale's Underlings
+Nale
 Nall
 Nalma
 NanHar
-Nanhel Eltorv
+Nanhel
 NanKhet
 Narm
 Nashan
 Natam
-Natata Ved
+Natata
 Navammis
-Navani Kholin
-Naze-daughter-Kuzodo
+Navani
 Nazh
 Ned
 Nelda
 Nergaoul
 Neturo
-Niali the Just
+Niali
 Nightblood
 Nightwatcher
 Nissiquan
@@ -376,15 +361,11 @@ Nohadon
 Noromin
 Notum
 Noura
-Nu Ralik
+Nu
 Nuatoma
 Numuhukumakiaki'aialunamor
 Odium
 Oileyes
-Ol' White-hair
-Old Man
-Old Sullik
-Old Tarn
 Oolelen
 Oroden
 Pai
@@ -400,10 +381,8 @@ Phendorana
 Pitt
 Placini
 Pom
-Profession
 Punio
 Puuli
-Puuli's Grandfather
 Radiant
 Ral
 Ralinor
@@ -412,27 +391,24 @@ Re-Shephir
 Red
 Redin
 Reesh
-Relis Ruthar
+Relis
 Rem
-Renarin Kholin
+Renarin
 Rencalt
-Reral Makoram
+Reral
 Restares
 Rez
 Rial
 Rien
 Rill
 Rilla
-Rillir Roshone
+Rillir
 Rin
 Rind
 Rlain
 Rock
-Rock II
-Rock's Family
 Rod
 Roion
-Roshone's Guard Captain
 Rua
 Ruli
 Rushu
@@ -440,15 +416,12 @@ Ruthar
 Rysn
 Sah
 Sakin
-Salinor Eved
+Salinor
 Sani
-Scientists
-Scribe
 Sebarial
 Seeli
 Shalash
-Shallan Davar
-Shardbearers
+Shallan
 Shauka-daughter-Hasweth
 Sheler
 Shen
@@ -460,11 +433,9 @@ Simol
 Sinaku'a
 Sinbian
 Sja-anat
-Sja-anat's Spy
 Skar
 Song
 Spark
-Sphere Vault Thief
 Star
 Stormfather
 Sunmaker
@@ -487,11 +458,9 @@ Tanavast
 Tarah
 Taran
 Taravangian
-Taravangian's Granddaughter
 Tarilar
 Tearim
 Teft
-Teft's Parents
 Teleb
 Telesh
 Temoo
@@ -501,26 +470,6 @@ Thaidakar
 Thakka
 Thanadal
 Thaspic
-Thaylen Woman
-The Archer
-The Blackthorn
-The Convict
-The Cook
-The Crier
-The Drummer Brothers
-The Enemy's Champion
-The Foreigner Captain
-The Judge
-The Little Girl
-The Nobleman Jailer
-The Prince of Tashikk
-The Shopkeeper
-The Soulcaster
-The Stump
-The Stump's Spren
-The Taker of Secrets
-The Tattooist
-The Weeper
 Thinker
 Thresh-son-Esan
 Thude
@@ -530,7 +479,6 @@ Tifi
 Tift
 Tigzikk
 Timbre
-Timbre's Grandfather
 Tinalar
 Tiqqa
 Tlik
@@ -541,7 +489,6 @@ Toravi
 Torfin
 Tormas
 Torol
-Torol Sadeas
 Tozbek
 Treff
 Tsa
@@ -576,14 +523,13 @@ Vathah
 Vathe
 Vazrmeb
 Ved
-Vedekar Perel
+Vedekar
 Vedel
 Veil
 Velalant
 Ven
 Venli
 Vet
-Viewpoint Characters
 Vono
 Vstim
 Vun Makak
@@ -607,10 +553,8 @@ Yis
 Yixli
 Ym
 Yokska
-Yokska's Husband
 Yustara
 Zahel
 Zedzil
 Zeheb
-Zen-daughter-Vath
 Zuln
