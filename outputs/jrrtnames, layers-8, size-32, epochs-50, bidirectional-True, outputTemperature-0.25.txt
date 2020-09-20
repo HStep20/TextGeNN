@@ -1,0 +1,123 @@
+Time to Learn: 147.382 seconds
+Time to Learn: 2.462 minutes
+Time to Generate Names: 81.511 seconds
+Time to Generate Names: 1.361 minutes
+
+========== Model Info ==========
+rnnLayers: 8
+rnnSize: 32
+batchSize: 512
+trainSize: 0.7
+bidirectional: True
+numEpochs: 50
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.25
+Output Total: 104
+===================================================
+
+Amangr
+Amarin
+Anarin
+Anaroth
+Andalimir
+Angor
+Aradhil
+Aradil
+Aradon
+Aragon
+Aragor
+Arahort
+Aramir
+Aramont
+Aranar
+Arandil
+Aranelas
+Arangar
+Arangor
+Aranor
+Aranthil
+Aranwin
+Arathil
+Arathir
+Aravil
+Argorin
+Barco
+Bardo
+Barin
+Belan
+Belda
+Beldar
+Beldil
+Beldo
+Beldor
+Belegord
+Belel
+Belim
+Belimer
+Belimir
+Belimon
+Belmeldas
+Beregon
+Berimen
+Berin
+Beron
+Berun
+Bor
+Borlan
+Borlandil
+Borlon
+Borondil
+Dorin
+Doro
+Driman
+Elladas
+Elladil
+Ellas
+Elmaran
+Elmarin
+Erendor
+Faldar
+Feldar
+Findor
+Fingor
+Fradan
+Fradhar
+Frimber
+Gardo
+Gildar
+Gilim
+Goldo
+Golladin
+Gorlachil
+Gorlahan
+Gorlahon
+Gorlanda
+Gorlandil
+Gorlando
+Gorlonga
+Gorthanor
+Gradhar
+Grambar
+Grimband
+Grimbar
+Grimbard
+Grimber
+Gundil
+Gurin
+Heldir
+Herdil
+Hergon
+Iselmar
+Landar
+Lingo
+Malanar
+Malanth
+Maran
+Marandil
+Marandir
+Marda
+Mardo
+Marendil
+Mengor

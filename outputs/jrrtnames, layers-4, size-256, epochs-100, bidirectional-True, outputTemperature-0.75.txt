@@ -1,0 +1,121 @@
+Time to Learn: 310.472 seconds
+Time to Learn: 5.172 minutes
+Time to Generate Names: 68.381 seconds
+Time to Generate Names: 1.141 minutes
+
+========== Model Info ==========
+rnnLayers: 4
+rnnSize: 256
+batchSize: 512
+trainSize: 0.7
+bidirectional: True
+numEpochs: 100
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.75
+Output Total: 102
+===================================================
+
+Adalgin
+Alfrim
+Amlacar
+Amlain
+Amnalg
+Anair
+Anbreg
+Ancalag
+Ancalian
+Ancalion
+Annar
+Arassui
+Arcil
+Argelas
+Artanhil
+Azogar
+Belecar
+Belegor
+Belemar
+Belendinder
+Berynegil
+Berynlo
+Bifuras
+Bildo
+Bilgo
+Bom
+Bungin
+Círdidor
+Drogel
+Dírhavil
+Eldarionth
+Elemmírë???
+Elroher
+Fastol
+Fastredil
+Ferdarin
+Fimerion
+Findinas
+Flamberd
+Fortilm
+Forwendil
+Frumberd
+Fréalfin
+Fuin
+Galadr
+Gethor
+Ghân-bur-h-hânw
+Gilraef
+Gimil
+Glimuir
+Glithuru
+Gléawin
+Glóredhw
+Golluin
+Gorbado
+Gorbadon
+Gorheg
+Grishnák
+Grithnil
+Haldin
+Halfant
+Herefor
+Herubrínd
+Hildigor
+Hirgo
+Hámfos
+Isilmor
+Ivynagil
+Laugo
+Laula
+Lindagil
+Mablur
+Maerel
+Mairel
+Malantiul
+Malvacar
+Malvadil
+Marchon
+Marchor
+Marhad
+Marhwin
+Mauhar
+Mauhg
+Merimat
+Minastal
+Oromer
+Oto
+Panto
+Pregdur
+Redigor
+Rufigar
+Rufigard
+Saeron
+Sanchor
+Shador
+Sigoldos
+Thengol
+Theor
+Theornond
+Tob
+Ulmor
+Îanaldil

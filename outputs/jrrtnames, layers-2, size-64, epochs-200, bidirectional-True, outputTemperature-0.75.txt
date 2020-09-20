@@ -1,0 +1,154 @@
+Time to Learn: 161.932 seconds
+Time to Learn: 2.72 minutes
+Time to Generate Names: 57.091 seconds
+Time to Generate Names: 0.951 minutes
+
+========== Model Info ==========
+rnnLayers: 2
+rnnSize: 64
+batchSize: 1024
+trainSize: 0.7
+bidirectional: True
+numEpochs: 200
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.75
+Output Total: 135
+===================================================
+
+Almacar
+Amariel
+Amethyt
+Amrothil
+Ancaluin
+Andwis
+Angelima
+Angendil
+Angrimel
+Annaeldil
+Ar-Amarth
+Ar-Amarthôr
+Aradant
+Aradhil
+Aragoros
+Arandil
+Aranwinel
+Arason
+Arassuin
+Argendil
+Argonuil
+Asfas
+Azaghthil
+Barl
+Barlicax
+Beregor
+Bigo
+Binor
+Bolgond
+Borthir
+Borthír
+Calimendur
+Calmarion
+Camelimë
+Ciryan
+Corta
+Dada
+Daegor
+Dangolio
+Dodo
+Draudil
+Egallas
+Elatant
+Elatantë
+Elemmor
+Elemmoth
+Elfhila
+Elfil
+Elfroc
+Elfwend
+Esfloni
+Estëon
+Fardila
+Fendis
+Finduila
+Firefoo
+Fomwin
+Forlon
+Forthenda
+Galadhin
+Geldor
+Gerin
+Gilborth
+Gilrahin
+Glion
+Glionhin
+Glári
+Glór
+Glórinden
+Glóring
+Gorlavean
+Gothláf
+Grifhlea
+Grimbreld
+Grimbêon
+Grishnáin
+Gundahah
+Gwili
+Haldacar
+Haldand
+Hamlas
+Hamsondil
+Hardir
+Herubard
+Hildifras
+Hildigrind
+Inberth
+Ingwohil
+Isembor
+Isembord
+Isilmor
+Isumbrë
+Landhild
+Lando
+Landor
+Landuil
+Long
+Léobul
+Madlacil
+Mardhil
+Marhwilbo
+Marhwili
+Mathag
+Meriad
+Morthe
+Mot
+Mírila
+Narvil
+Nellador
+Nimlotan
+Nina Bilion
+Odolava
+Orgon
+Orodor
+Orodris
+Prifuse
+Rudibard
+Rómendac
+Sada
+Sadaca
+Sata
+Satalca
+Shedrifan
+Siriond
+Stridir
+Tarchar
+Théodel
+Tilmandir
+Tob
+Tobo
+Troduin
+Ulfard
+Ulfart
+Zimrahir
+Éomen

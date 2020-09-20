@@ -1,0 +1,116 @@
+Time to Learn: 293.352 seconds
+Time to Learn: 4.892 minutes
+Time to Generate Names: 65.961 seconds
+Time to Generate Names: 1.11 minutes
+
+========== Model Info ==========
+rnnLayers: 4
+rnnSize: 128
+batchSize: 512
+trainSize: 0.7
+bidirectional: True
+numEpochs: 200
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.75
+Output Total: 97
+===================================================
+
+Aegnon
+Algard
+Anarion
+Andreg
+Annario
+Ar-Amrasë
+Ar-Grodon
+Aragos
+Aranalth
+Arassuir
+Arathor
+Arveli
+Atanalcil
+Bali
+Baranon
+Berúth
+Berúthel
+Bofo
+Boromin
+Brifo
+Camendir
+Ciryatandil
+Cotmandor
+Cotta
+Daisuin
+Deneth
+Derumir
+Dino
+Elathor
+Elemmast
+Elemmír
+Elfhelmor
+Elfhilb
+Elfhilmbold
+Elfhilmbort
+Elfwing
+Ellor
+Eofwen
+Esmelloth
+Estellon
+Fasto
+Faston
+Faty
+Ferdin
+Fredegard
+Galadhor
+Gilmith------t--
+Gilrion
+Gormad
+Gotho
+Gotholdad
+Grifho
+Grufo
+Grímar
+Gundol
+Gundolian
+Gundolod
+Gundolof
+Hat
+Hirildaer
+Imilzôg
+Ioret
+Ismo
+Lobelic
+Longol
+Lothon
+Lóngol
+Lórin
+Mablor
+Mados
+Mauhas
+Mimosan
+Minasse
+Moron
+Núna
+Núna Lion
+Orgo
+Osso
+Ostohel
+Peonyl
+Portan
+Rowë
+Sakhartôn
+Salmacil
+Shalaca
+Smaung
+Snag
+Súrien
+Tanton
+Tatman
+Telphir
+Theoran
+Tos
+Vëan
+Wilimard
+Yavana
+Óngol

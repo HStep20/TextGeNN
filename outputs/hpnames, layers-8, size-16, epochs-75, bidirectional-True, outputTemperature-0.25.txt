@@ -1,0 +1,162 @@
+Time to Learn: 148.552 seconds
+Time to Learn: 2.482 minutes
+Time to Generate Names: 96.211 seconds
+Time to Generate Names: 1.61 minutes
+
+========== Model Info ==========
+rnnLayers: 8
+rnnSize: 16
+batchSize: 256
+trainSize: 0.7
+bidirectional: True
+numEpochs: 75
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.25
+Output Total: 143
+===================================================
+
+Ableron
+Alberor
+Baddley
+Badleron
+Badnsey
+Badser
+Badsere
+Badseroug
+Badserto
+Badsey
+Badslero
+Badslerourg
+Badslerton
+Badslery
+Bainas
+Baind
+Baingo
+Baingoury
+Bainna
+Bainour
+Bainsha
+Bainshon
+Bainsler
+Bainsley
+Bainston
+Bainstou
+Bainstour
+Baisburg
+Baislerton
+Baiston
+Balango
+Barina
+Barserour
+Barton
+Bartona
+Baston
+Batin
+Batina
+Batinas
+Batinn
+Batinsha
+Baton
+Batona
+Bidleron
+Bidsley
+Bigon
+Binare
+Binasley
+Binastouy
+Bindlery
+Bindne
+Binsle Wooton
+Binston
+Biston
+Bitton
+Bornasto
+Borton
+Bransley
+Braston
+Bubbberon
+Bubberon
+Bubberond
+Bubberonde
+Bubberones
+Bubberonse
+Bubberonses
+Bubberorde
+Bubberores
+Bubberorton
+Bubbleron
+Buberon
+Bubleron
+Bublerore
+Bubreron
+Buffonase
+Buffongor
+Bufftona
+Bufftonaston
+Buftonase
+Bugana
+Bungand
+Bungang
+Burbberorer
+Burberon
+Burberond
+Burfon
+Burfond
+Burfong
+Burforgo
+Burgon
+Burnasley
+Caina
+Carton
+Catina
+Catingh
+Craston
+Dainstour
+Datin
+Diastour
+Leereron
+Madnesto
+Madney
+Maina
+Manana
+Manche Wolong
+Mancina
+Mane Bannas
+Mannton
+Maston
+Matina
+Maton
+Mincaley
+Mincinnghad
+Mineslon
+Morton
+Neadesha
+Potonolley
+Stereres
+Stererey
+Stereshan
+Stonana
+Stonanas
+Stonasha
+Stonastour
+Stoncaley
+Stoncalley
+Stoncaston
+Stonchan
+Stoncher
+Stoncherth
+Stoncinallon
+Stondell
+Stonerer
+Stonerey
+Stoneston
+Stonnana
+Stopperon
+Stoppleron
+Stornasth
+Stornghal
+Storton
+Stower
+Wagggggggggo

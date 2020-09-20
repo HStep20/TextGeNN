@@ -1,0 +1,127 @@
+Time to Learn: 223.012 seconds
+Time to Learn: 3.722 minutes
+Time to Generate Names: 84.261 seconds
+Time to Generate Names: 1.41 minutes
+
+========== Model Info ==========
+rnnLayers: 8
+rnnSize: 64
+batchSize: 512
+trainSize: 0.7
+bidirectional: True
+numEpochs: 100
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.75
+Output Total: 108
+===================================================
+
+Adalber
+Aghon
+Almarin
+Almarë
+Ancalion
+Andelir
+Aredhor
+Asfalos
+Asphae
+Atanalphôr
+Baragh
+Belegunda
+Belegundor
+Bellas
+Berendil
+Bobbur
+Bodbur
+Bofbo
+Boldan
+Borladil
+Brandil
+Broddo
+Brondil
+Bucc
+Buccho
+Castal
+Ciryooth
+Crecharotin
+Cura
+Dagon
+Daire
+Daireon
+Dervorn
+Dinodo
+Druchal
+Eiline
+Elfsten
+Erellond
+Ferdindar
+Findugar
+Forlond
+Frechtar
+Fredriman
+Fuil
+Fílir
+Geldar
+Geldir
+Gethmor
+Ghândorva
+Gimlang
+Gimronwil
+Gliruan
+Glóredel
+Griffoot
+Guthlif
+Haldadil
+Hardin
+Hathon
+Herucal
+Herugal
+Hildifonss
+Inzigassë
+Isildor
+Lóngo
+Lórin
+Mab
+Macbo
+Mag
+Malachir
+Manwehtil
+Marhadoc
+Marhadon
+Melilka
+Melilm
+Menegilil
+Mimos
+Minastil
+Mosto
+Myrytad
+Narvinand
+Nesebunan
+Noland
+Orod
+Panto
+Pengolodhend
+Phridor
+Popy
+Primros
+Prismonda
+Regago
+Rorim
+Rímanda
+Rúmin
+Saerion
+Shaga
+Siriond
+Tathtar
+Telperin
+Teluman
+Theobar
+Tilby
+Vanimeldacil
+Vardimar
+Voronwin
+Wilcamel
+Wisemlla
+Yárien
+Zimavar

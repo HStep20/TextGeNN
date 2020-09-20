@@ -1,0 +1,111 @@
+Time to execute: 288.142 seconds
+Time to execute: 4.82 minutes
+
+========== Model Info ==========
+rnnLayers: 8
+rnnSize: 128
+batchSize: 256
+trainSize: 0.7
+bidirectional: True
+numEpochs: 100
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.75
+Output Total: 94
+===================================================
+
+Adrin
+Alawahel
+Alawahet
+Alawawden
+Aprotm
+Aulama
+Bilighta
+Brianla
+Condwind
+Coreberon
+Dabb
+Dabbbeat
+Daiglar
+Deedi
+Dobret
+Elhonar
+Elhora
+Elthar
+Erta
+Ertma
+Falila
+Falks
+Farks
+Fem
+Fiksi
+Gar
+Gavara
+Gavis
+Gawlah
+Groshel
+Handas
+Hanlan
+Harks
+Hau
+Hem
+Katarotama
+Kazet
+Kef
+Khavinor
+Kool
+Kylet
+Lamar
+Laraphin Dertyren
+Laraphin Vai
+Lopar
+Loram
+Lunama
+Lunamar
+Lunu'ana'an
+Lunu'anan
+Mabsan
+Malasal
+Malch
+Morakoth
+Neld
+Parashi
+Perises
+Phenet
+Puli
+Re-Sthar
+Renal
+Rerin
+Rine
+Rlal
+Sahel
+Sebariash
+Sharbbearers
+Sharbear
+Sja-alin
+Sormar
+Swiff
+Sylingrt
+Tafa
+Tafala
+Tafana
+Tagarim
+Tagen
+Tageth
+Takal
+Takala
+Takaral
+Talenel
+Tavinor
+Tazeth
+Tif
+Tinala
+Tiqqala
+Toolmor
+Tozel
+Turak
+Varal
+Vatheh
+Win Davar
+Yixina

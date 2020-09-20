@@ -1,10 +1,12 @@
-Time to execute: 288.142 seconds
-Time to execute: 4.82 minutes
+Time to Learn: 240.592 seconds
+Time to Learn: 4.012 minutes
+Time to Generate Names: 75.461 seconds
+Time to Generate Names: 1.261 minutes
 
 ========== Model Info ==========
 rnnLayers: 8
 rnnSize: 128
-batchSize: 256
+batchSize: 512
 trainSize: 0.7
 bidirectional: True
 numEpochs: 100
@@ -15,97 +17,97 @@ Output Temp: 0.75
 Output Total: 94
 ===================================================
 
-Adrin
-Alawahel
-Alawahet
-Alawawden
-Aprotm
-Aulama
-Bilighta
-Brianla
-Condwind
-Coreberon
-Dabb
-Dabbbeat
-Daiglar
-Deedi
-Dobret
-Elhonar
-Elhora
-Elthar
-Erta
-Ertma
-Falila
-Falks
-Farks
-Fem
-Fiksi
-Gar
-Gavara
-Gavis
-Gawlah
-Groshel
-Handas
-Hanlan
-Harks
-Hau
-Hem
-Katarotama
-Kazet
-Kef
-Khavinor
-Kool
-Kylet
-Lamar
-Laraphin Dertyren
-Laraphin Vai
-Lopar
-Loram
-Lunama
-Lunamar
-Lunu'ana'an
-Lunu'anan
-Mabsan
-Malasal
-Malch
-Morakoth
-Neld
-Parashi
-Perises
-Phenet
-Puli
-Re-Sthar
-Renal
-Rerin
-Rine
-Rlal
-Sahel
-Sebariash
-Sharbbearers
-Sharbear
-Sja-alin
-Sormar
-Swiff
-Sylingrt
-Tafa
-Tafala
-Tafana
-Tagarim
-Tagen
-Tageth
-Takal
-Takala
-Takaral
-Talenel
-Tavinor
-Tazeth
-Tif
-Tinala
-Tiqqala
-Toolmor
-Tozel
-Turak
-Varal
-Vatheh
-Win Davar
-Yixina
+Ado
+Adodan
+Aha
+Alakavi
+Alawath
+Allahe
+Allahem
+Almimy
+Althyrn
+Alturom
+Arcong
+Ashlvern
+Au-dak
+Avlar
+Ba-don
+Barm
+Bathah
+Bid
+Blin
+Dandor
+Dov
+Elthala
+Elthalar
+Ethin
+Fias
+Gab
+Gevelah
+Gith
+Gurm
+Gush
+Gusht
+Habsat
+Hammer
+Haswath
+Hathem
+Hau-da
+Ichalat
+Jener
+Kavel
+Kaver
+Kula''aki'na'ali'namor
+Kura''aki'na'ali'namor
+Ladesh
+Lergzmid
+Lissiqqamak
+Loren
+Malat
+Merid
+Morik
+Mrail
+NanHer
+Nare
+Navami
+Nigstwatcher
+Nlal
+Peeesh
+Puntia
+Ralino
+Re-dontart
+Re-dostar
+Reeli
+Rezid
+Rusthar
+Rustian
+Sevek
+Shalak
+Shallar
+Sparm
+Taffat
+Takh
+Takla
+Tanalali
+Taril
+Teleshor
+Temar
+Temib
+Thakka'a
+Thashan
+Tialak
+Tibnia
+Tigonak
+Tina'akar
+Tladin
+Tvlami
+Vaco
+Valata
+Varalangian
+Vonoqar
+Vonoqava
+Wiksim avar
+Wissig-naku
+Yelig-nt
+Yengarghaw
+Yixl

@@ -1,0 +1,111 @@
+Time to Learn: 143.282 seconds
+Time to Learn: 2.392 minutes
+Time to Generate Names: 65.921 seconds
+Time to Generate Names: 1.11 minutes
+
+========== Model Info ==========
+rnnLayers: 4
+rnnSize: 64
+batchSize: 512
+trainSize: 0.7
+bidirectional: True
+numEpochs: 100
+maxGenLength: 25
+
+========== Output Info ==========
+Output Temp: 0.75
+Output Total: 92
+===================================================
+
+Alcarid
+Amaran
+Ancalag
+Andred
+Angbry
+Angbyrmac
+Aragos
+Aragoss
+Aratalmë
+Arvedil
+Arveles
+Azanarth
+Barag
+Barl
+Belbard
+Beregand
+Berún
+Bofsomir
+Bolgan
+Bombar
+Borthar
+Bëo
+Caladon
+Callacar
+Carchar
+Carlac
+Celebrimberndil
+Danwë
+Derina
+Deriná
+Dradin
+Duthar
+Eilmo
+Eldalóth
+Elrondil
+Enerdil
+Eofol
+Fasto
+Fengelag
+Filrië
+Fireffwed
+Forthwiniel
+Frodwin
+Fréalá
+Fuingris
+Fërondir
+Gorhendadd
+Gotm
+Grad
+Grathin
+Grimbor
+Grímar
+Gundabast
+Halfas
+Hallath
+Hendilg
+Herubold
+Herugor
+Hildiffas
+Hildifff
+Hiribald
+Ildirie
+Ilris
+Inglorith
+Ioren
+Ioreng
+Kí
+Lonhar
+Lundór
+Lúnen
+Maedhtar
+Magloth
+Mardi
+Marmados
+Mugo
+Orophel
+Polon
+Primros
+Rosamendol
+Rudibar
+Samanta
+Sanca
+Shagrath
+Sirodund
+Telemmir
+Theobaldons
+Thurin
+Tingoomir
+Tolmacar
+Varamir
+Wilcamem
+Wilibard
